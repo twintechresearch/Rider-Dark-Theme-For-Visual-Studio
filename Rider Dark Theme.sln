@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rider Dark Theme", "Rider Dark Theme\Rider Dark Theme.csproj", "{2B5B9EC9-229C-48A5-BA91-6A59CD5F0F2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B5B9EC9-229C-48A5-BA91-6A59CD5F0F2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B5B9EC9-229C-48A5-BA91-6A59CD5F0F2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B5B9EC9-229C-48A5-BA91-6A59CD5F0F2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B5B9EC9-229C-48A5-BA91-6A59CD5F0F2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDB8D0C0-57CF-4A41-B783-4E4E6242D90C}
+	EndGlobalSection
+EndGlobal
