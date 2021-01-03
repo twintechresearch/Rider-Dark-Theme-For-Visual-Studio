@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="Rider Dark" GUID="{5d1dd512-c2cf-4a30-aedd-a25ebcf89c44}" BaseGUID="{a2acdbd5-b0fc-4f51-a284-7e27efbeca45}">
+  <Theme Name="Rider Dark (1)" GUID="{f3002f70-76cb-43b3-af72-5340bf0a5f59}" BaseGUID="{5d1dd512-c2cf-4a30-aedd-a25ebcf89c44}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF252526" />
@@ -1964,7 +1964,7 @@
         <Background Type="CT_RAW" Source="FF3399FF" />
       </Color>
       <Color Name="HighlightText">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF202424" />
       </Color>
       <Color Name="InactiveBorder">
         <Background Type="CT_RAW" Source="FF3F3F46" />
@@ -5235,7 +5235,7 @@
         <Foreground Type="CT_RAW" Source="FF0000FF" />
       </Color>
     </Category>
-    <Category Name="ColorizedSignatureHelp colors" GUID="{75a05685-00a8-4ded-bae5-e7a50bfa929a}">
+    <Category Name="ReSharper Highlighting" GUID="{75a05685-00a8-4ded-bae5-e7a50bfa929a}">
       <Color Name="Dynamic Program Analysis Highlighter (Issue frame)">
         <Background Type="CT_RAW" Source="FF5B4739" />
         <Foreground Type="CT_INVALID" Source="00000000" />
