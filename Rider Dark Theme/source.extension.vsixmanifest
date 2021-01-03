@@ -4,7 +4,9 @@
         <Identity Id="Rider Dark Theme For Visual Studio" Version="1.0" Language="en-US" Publisher="Twin Tech Research" />
         <DisplayName>Rider Dark Theme For Visual Studio</DisplayName>
         <Description xml:space="preserve">Rider Dark Theme For Visual Studio</Description>
+        <MoreInfo>https://github.com/twintechresearch/Rider-Dark-Theme-For-Visual-Studio</MoreInfo>
         <License>License.txt</License>
+        <GettingStartedGuide>Guide.html</GettingStartedGuide>
         <Icon>visualstudiorider.png</Icon>
         <PreviewImage>visualstudiorider.png</PreviewImage>
     </Metadata>
