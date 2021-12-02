@@ -3242,6 +3242,10 @@
         <Background Type="CT_RAW" Source="FF252526" />
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
+      <Color Name="Container">
+        <Background Type="CT_RAW" Source="FF000000" />
+        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
+      </Color>
       <Color Name="Caption">
         <Background Type="CT_RAW" Source="FF2D2D30" />
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
@@ -3504,7 +3508,64 @@
       <Color Name="InnerTabTextPressed">
         <Background Type="CT_RAW" Source="FF55AAFF" />
       </Color>
+      <Color Name="StatusBannerInfo">
+        <Background Type="CT_RAW" Source="1E1BA1E2" />
+        <Foreground Type="CT_RAW" Source="FF1E1E1E" />
+      </Color>
+      <Color Name="StatusBannerInfoBorder">
+        <Foreground Type="CT_RAW" Source="FF1BA1E2" />
+      </Color>
+      <Color Name="StatusBannerProgress">
+        <Background Type="CT_RAW" Source="1E94A6CA" />
+        <Foreground Type="CT_RAW" Source="FF1E1E1E" />
+      </Color>
+      <Color Name="StatusBannerProgressBorder">
+        <Foreground Type="CT_RAW" Source="FF94A6CA" />
+      </Color>
+      <Color Name="StatusBannerSuccess">
+        <Background Type="CT_RAW" Source="1E2E7D32" />
+        <Foreground Type="CT_RAW" Source="FF1E1E1E" />
+      </Color>
+      <Color Name="StatusBannerSuccessBorder">
+        <Foreground Type="CT_RAW" Source="FF2E7D32" />
+      </Color>
+      <Color Name="StatusBannerError">
+        <Background Type="CT_RAW" Source="1ED53230" />
+        <Foreground Type="CT_RAW" Source="FF1E1E1E" />
+      </Color>
+      <Color Name="StatusBannerErrorBorder">
+        <Foreground Type="CT_RAW" Source="FFD53230" />
+      </Color>
+      <Color Name="PageBackground">
+        <Background Type="CT_RAW" Source="FF000000" />
+      </Color>
     </Category>
+    <Category Name="ConfigPage" GUID="{699a73b3-57e2-4754-9364-ee80d6852c2f}">
+      <Color Name="TabActive">
+        <Background Type="CT_RAW" Source="FF252526" />
+        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
+      </Color>
+      <Color Name="Watermark">
+        <Background Type="CT_RAW" Source="FF252526" />
+        <Foreground Type="CT_RAW" Source="FF999999" />
+      </Color>
+      <Color Name="DescriptionPane">
+        <Background Type="CT_RAW" Source="FF333337" />
+        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
+      </Color>
+      <Color Name="Background">
+        <Background Type="CT_RAW" Source="FF252526" />
+        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
+      </Color>
+      <Color Name="TabInactive">
+        <Background Type="CT_RAW" Source="FF333337" />
+        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
+      </Color>
+      <Color Name="TabMouseOver">
+        <Background Type="CT_RAW" Source="FF3F3F46" />
+        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
+      </Color>
+    </Category>     
     <Category Name="CommonDocumentCard" GUID="{2e129498-0d2d-43ca-94d6-c652c0132543}">
       <Color Name="CardIllustrationFill1">
         <Background Type="CT_RAW" Source="FF252525" />
